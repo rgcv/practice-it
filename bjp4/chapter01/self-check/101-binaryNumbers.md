@@ -1,6 +1,6 @@
 # BJP4 Self-Check 1.1: binaryNumbers
 
-## Why do computers use binary numbers?
+**Why do computers use binary numbers?**
 
 1. Because there are 10 types of people: Those who understand binary, and those
    who don't.
