@@ -1,6 +1,6 @@
 # BJP4 Self-Check 1.3: binary2
 
-**What is the decimal equivalent of each of the following binary numbers?**
+> **What is the decimal equivalent of each of the following binary numbers?**
 
 |  Binary | Decimal |
 | ------: | :------ |

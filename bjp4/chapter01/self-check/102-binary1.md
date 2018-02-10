@@ -1,7 +1,7 @@
 # BJP4 Self-Check 1.2: binary1
 
-**Convert each of the following decimal numbers into its equivalent binary
-number:**
+> **Convert each of the following decimal numbers into its equivalent binary
+> number:**
 
 | Decimal | Binary       |
 | ------: | :----------- |
