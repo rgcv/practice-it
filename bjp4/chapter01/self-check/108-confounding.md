@@ -14,6 +14,4 @@ Slashes \//
 How '"confounding' "\" it is!
 ```
 
-_(order shuffled)_
-
 **Author**: Marty Stepp (on 2016/09/08) • [Source](https://practiceit.cs.washington.edu/problem/view/bjp4/chapter1/s7-outputSyntax)
