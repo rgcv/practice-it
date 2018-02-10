@@ -10,7 +10,7 @@
 |  ✅ | [BJP4 Self-Check 1.06: legalIdentifiers](self-check/106-legalIdentifiers.md) |
 |  ✅ | [BJP4 Self-Check 1.07: outputSyntax](self-check/107-outputSyntax.md)         |
 |  ✅ | [BJP4 Self-Check 1.08: confounding](self-check/108-confounding.md)           |
-|  🔜 | BJP4 Self-Check 1.09: Archie                                                 |
+|  ✅ | [BJP4 Self-Check 1.09: Archie](self-check/109-Archie.md)                     |
 |  🔜 | BJP4 Self-Check 1.10: Shaq                                                   |
 |  🔜 | BJP4 Self-Check 1.11: downwardSpiral                                         |
 |  🔜 | BJP4 Self-Check 1.12: DoubleSlash                                            |
