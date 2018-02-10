@@ -15,4 +15,4 @@
 
 _(order shuffled)_
 
-**Author**: Marty Stepp (on 2016/09/08) • [Source](https://practiceit.cs.washington.edu/problem/view/bjp4/chapter1/s1-binaryNumbers)
+**Author**: Marty Stepp (on 2016/09/08) • <a href="https://practiceit.cs.washington.edu/problem/view/bjp4/chapter1/s1-binaryNumbers" target="_blank">Source</a>
