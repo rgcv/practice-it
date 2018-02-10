@@ -3,11 +3,11 @@
 **Convert each of the following decimal numbers into its equivalent binary
 number:**
 
-| Decimal | Binary   |
-| ------: | :------- |
-|       6 | 110      |
-|      44 | 101100   |
-|      72 | 1001000  |
-|     131 | 10000011 |
+| Decimal | Binary       |
+| ------: | :----------- |
+|       6 | **110**      |
+|      44 | **101100**   |
+|      72 | **1001000**  |
+|     131 | **10000011** |
 
 **Author**: Marty Stepp (on 2016/09/08) • [Source](https://practiceit.cs.washington.edu/problem/view/bjp4/chapter1/s2-binary1)
