@@ -14,4 +14,4 @@ Slashes \//
 How '"confounding' "\" it is!
 ```
 
-**Author**: Marty Stepp (on 2016/09/08) • [Source](https://practiceit.cs.washington.edu/problem/view/bjp4/chapter1/s7-outputSyntax)
+**Author**: Marty Stepp (on 2016/09/08) • [Source](https://practiceit.cs.washington.edu/problem/view/bjp4/chapter1/s8-confounding)
