@@ -12,12 +12,12 @@ From the Practice-it website:
 
 ## Problems
 
-|  ✅ | Chapter                                | Progress |
-| --: | :------------------------------------- | :------- |
-|  🔜 | Building Java Programs, 4th Edition    | 0 / 621  |
-|  🔜 | University of Washington CSE 142 (CS1) | 0 / 304  |
-|  🔜 | University of Washington CSE 143 (CS2) | 0 / 427  |
-|  🔜 | University of Washington CSE 373       | 0 / 53   |
+|  ✅ | Chapter                                     | Progress |
+| --: | :------------------------------------------ | :------- |
+|  🚧 | [Building Java Programs, 4th Edition](bjp4) | 0 / 621  |
+|  🔜 | University of Washington CSE 142 (CS1)      | 0 / 304  |
+|  🔜 | University of Washington CSE 143 (CS2)      | 0 / 427  |
+|  🔜 | University of Washington CSE 373            | 0 / 53   |
 
 **NOTE:** BJP3 (Building Java Programs, 3rd Edition) problems are omitted since
 they're deprecated and will soon be excluded from the problem set, effectively
