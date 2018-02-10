@@ -1,4 +1,4 @@
-# BJP4 Chapter 1: Introduction to Java Programming (8 / 48)
+# BJP4 Chapter 1: Introduction to Java Programming (9 / 48)
 
 |  ✅ | Problem                                                                      |
 | --: | :--------------------------------------------------------------------------- |
