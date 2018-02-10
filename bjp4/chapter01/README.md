@@ -1,9 +1,9 @@
-# BJP4 Chapter 1: Introduction to Java Programming (1 / 48)
+# BJP4 Chapter 1: Introduction to Java Programming (2 / 48)
 
 |  ✅ | Problem                                                                |
 | --: | :--------------------------------------------------------------------- |
 |  ✅ | [BJP4 Self-Check 1.01: binaryNumbers](self-check/101-binaryNumbers.md) |
-|  🔜 | BJP4 Self-Check 1.02: binary1                                          |
+|  ✅ | [BJP4 Self-Check 1.02: binary1](self-check/102-binary1.md)             |
 |  🔜 | BJP4 Self-Check 1.03: binary2                                          |
 |  🔜 | BJP4 Self-Check 1.04: cookieRecipe                                     |
 |  🔜 | BJP4 Self-Check 1.05: javaVsClass                                      |
