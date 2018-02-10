@@ -1,4 +1,4 @@
-# BJP4 Chapter 1: Introduction to Java Programming (7 / 48)
+# BJP4 Chapter 1: Introduction to Java Programming (8 / 48)
 
 |  ✅ | Problem                                                                      |
 | --: | :--------------------------------------------------------------------------- |
@@ -9,7 +9,7 @@
 |  ✅ | [BJP4 Self-Check 1.05: javaVsClass](self-check/105-javaVsClass.md)           |
 |  ✅ | [BJP4 Self-Check 1.06: legalIdentifiers](self-check/106-legalIdentifiers.md) |
 |  ✅ | [BJP4 Self-Check 1.07: outputSyntax](self-check/107-outputSyntax.md)         |
-|  🔜 | BJP4 Self-Check 1.08: confounding                                            |
+|  ✅ | [BJP4 Self-Check 1.08: confounding](self-check/108-confounding.md)           |
 |  🔜 | BJP4 Self-Check 1.09: Archie                                                 |
 |  🔜 | BJP4 Self-Check 1.10: Shaq                                                   |
 |  🔜 | BJP4 Self-Check 1.11: downwardSpiral                                         |
