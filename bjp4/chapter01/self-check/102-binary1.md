@@ -7,7 +7,7 @@
   <thead>
     <tr>
       <th align="right">Decimal</th>
-      <th>Binary</th>
+      <th align="left">Binary</th>
     </tr>
   </thead>
   <tbody>
