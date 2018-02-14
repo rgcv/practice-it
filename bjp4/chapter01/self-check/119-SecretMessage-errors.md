@@ -25,4 +25,4 @@ public class SecretMessage {
 
 </details>
 
-**Author**: Marty Stepp (on 2016/09/08) • [Source](https://practiceit.cs.washington.edu/problem/view/bjp4/chapter1/s1-SecretMessage-errors)
+**Author**: Marty Stepp (on 2016/09/08) • [Source](https://practiceit.cs.washington.edu/problem/view/bjp4/chapter1/s19-SecretMessage-errors)
