@@ -1,11 +1,11 @@
-# Building Java Programs, 4th Edition (11 / 621)
+# Building Java Programs, 4th Edition (12 / 621)
 
 _These problems are copyright Pearson Education. Practice-It is not officially
 associated with this textbook nor with Pearson._
 
 |  ✅ | Chapter                                                       | Progress |
 | --: | :------------------------------------------------------------ | :------- |
-|  🚧 | [BJP4 Chapter 1: Introduction to Java Programming](chapter01) | 11 / 48  |
+|  🚧 | [BJP4 Chapter 1: Introduction to Java Programming](chapter01) | 12 / 48  |
 |  🔜 | BJP4 Chapter 2: Primitive Data and Definite Loops             | 0 / 61   |
 |  🔜 | BJP4 Chapter 3: Parameters and Objects                        | 0 / 48   |
 |  🔜 | BJP4 Supplement 3G: Graphics                                  | 0 / 20   |

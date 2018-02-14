@@ -1,4 +1,4 @@
-# BJP4 Chapter 1: Introduction to Java Programming (11 / 48)
+# BJP4 Chapter 1: Introduction to Java Programming (12 / 48)
 
 |  ✅ | Problem                                                                      |
 | --: | :--------------------------------------------------------------------------- |
@@ -13,7 +13,7 @@
 |  ✅ | [BJP4 Self-Check 1.09: Archie](self-check/109-Archie.md)                     |
 |  ✅ | [BJP4 Self-Check 1.10: Shaq](self-check/110-Shaq.md)                         |
 |  ✅ | [BJP4 Self-Check 1.11: downwardSpiral](self-check/111-downwardSpiral)        |
-|  🔜 | BJP4 Self-Check 1.12: DoubleSlash                                            |
+|  ✅ | [BJP4 Self-Check 1.12: DoubleSlash](self-check/112-DoubleSlash)              |
 |  🔜 | BJP4 Self-Check 1.13: Sally                                                  |
 |  🔜 | BJP4 Self-Check 1.14: TestOfKnowledge                                        |
 |  🔜 | BJP4 Self-Check 1.15: printlnSlashes                                         |
