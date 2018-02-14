@@ -9,12 +9,21 @@
    automatically later.
 3. A .java file contains code written in the Java language, and a .class file
    contains code written in the C++ language.
-4. **MyProgram.java is a source code file typed by the programmer, and
+4. MyProgram.java is a source code file typed by the programmer, and
    MyProgram.class is a compiled executable class file that is run by the
-   computer.** ✅
+   computer.
 5. The .class file is for object-oriented programming and the .java file is for
    procedural programming.
 
 _(order shuffled)_
+
+<details>
+  <summary><strong>View Answer</strong></summary>
+
+4. **MyProgram.java is a source code file typed by the programmer, and
+   MyProgram.class is a compiled executable class file that is run by the
+   computer.**
+
+</details>
 
 **Author**: Marty Stepp (on 2016/09/08) • [Source](https://practiceit.cs.washington.edu/problem/view/bjp4/chapter1/s5-javaVsClass)

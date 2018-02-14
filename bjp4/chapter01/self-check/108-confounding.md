@@ -8,10 +8,13 @@
 > System.out.println("How '\"confounding' \"\\\" it is!");
 > ```
 
-```
-"Quotes"
-Slashes \//
-How '"confounding' "\" it is!
-```
+<details>
+  <summary><strong>View Answer</strong></summary>
+
+    "Quotes"
+    Slashes \//
+    How '"confounding' "\" it is!
+
+</details>
 
 **Author**: Marty Stepp (on 2016/09/08) • [Source](https://practiceit.cs.washington.edu/problem/view/bjp4/chapter1/s8-confounding)

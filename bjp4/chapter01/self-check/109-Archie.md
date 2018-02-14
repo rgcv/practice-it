@@ -21,11 +21,14 @@
 > and the fourth `\t` is 7 spaces (because `"beautiful"` is 9 characters, so it
 > takes 7 more to get to 16, which is the next multiple of 8).
 
-```
-name    age     height
-Archie  17      5'9"
-Betty   17      5'6"
-Jughead 16      6'
-```
+<details>
+  <summary><strong>View Answer</strong></summary>
+
+    name    age     height
+    Archie  17      5'9"
+    Betty   17      5'6"
+    Jughead 16      6'
+
+</details>
 
 **Author**: Marty Stepp (on 2016/09/08) • [Source](https://practiceit.cs.washington.edu/problem/view/bjp4/chapter1/s9-Archie)

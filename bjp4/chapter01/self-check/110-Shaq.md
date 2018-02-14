@@ -8,10 +8,13 @@
 > System.out.println("\\'\"\"");
 > ```
 
-```
-Shaq is 7'1
-The string "" is an empty message.
-\'""
-```
+<details>
+  <summary><strong>View Answer</strong></summary>
+
+    Shaq is 7'1
+    The string "" is an empty message.
+    \'""
+
+</details>
 
 **Author**: Marty Stepp (on 2016/09/08) • [Source](https://practiceit.cs.washington.edu/problem/view/bjp4/chapter1/s10-Shaq)
