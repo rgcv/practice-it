@@ -14,7 +14,7 @@ From the Practice-it website:
 
 |  ✅ | Chapter                                     | Progress |
 | --: | :------------------------------------------ | :------- |
-|  🚧 | [Building Java Programs, 4th Edition](bjp4) | 16 / 621 |
+|  🚧 | [Building Java Programs, 4th Edition](bjp4) | 17 / 621 |
 |  🔜 | University of Washington CSE 142 (CS1)      | 0 / 304  |
 |  🔜 | University of Washington CSE 143 (CS2)      | 0 / 427  |
 |  🔜 | University of Washington CSE 373            | 0 / 53   |
