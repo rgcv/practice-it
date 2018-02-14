@@ -1,4 +1,4 @@
-# BJP4 Chapter 1: Introduction to Java Programming (14 / 48)
+# BJP4 Chapter 1: Introduction to Java Programming (15 / 48)
 
 |  ✅ | Problem                                                                      |
 | --: | :--------------------------------------------------------------------------- |
@@ -16,7 +16,7 @@
 |  ✅ | [BJP4 Self-Check 1.12: DoubleSlash](self-check/112-DoubleSlash.md)           |
 |  ✅ | [BJP4 Self-Check 1.13: Sally](self-check/113-Sally.md)                       |
 |  ✅ | [BJP4 Self-Check 1.14: TestOfKnowledge](self-check/114-TestOfKnowledge.md)   |
-|  🔜 | BJP4 Self-Check 1.15: printlnSlashes                                         |
+|  ✅ | [BJP4 Self-Check 1.15: printlnSlashes](self-check/115-printlnSlashes.md)     |
 |  🔜 | BJP4 Self-Check 1.16: withoutPrintStatements                                 |
 |  🔜 | BJP4 Self-Check 1.17: Commentary                                             |
 |  🔜 | BJP4 Self-Check 1.18: MyProgram-errors                                       |
