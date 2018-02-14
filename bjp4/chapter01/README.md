@@ -1,4 +1,4 @@
-# BJP4 Chapter 1: Introduction to Java Programming (17 / 48)
+# BJP4 Chapter 1: Introduction to Java Programming (18 / 48)
 
 |  ✅ | Problem                                                                                  |
 | --: | :--------------------------------------------------------------------------------------- |
@@ -19,7 +19,7 @@
 |  ✅ | [BJP4 Self-Check 1.15: printlnSlashes](self-check/115-printlnSlashes.md)                 |
 |  ✅ | [BJP4 Self-Check 1.16: withoutPrintStatements](self-check/116-withoutPrintStatements.md) |
 |  ✅ | [BJP4 Self-Check 1.17: Commentary](self-check/117-Commentary.md)                         |
-|  🔜 | BJP4 Self-Check 1.18: MyProgram-errors                                                   |
+|  ✅ | [BJP4 Self-Check 1.18: MyProgram-errors](self-check/118-MyProgram-errors.md)             |
 |  🔜 | BJP4 Self-Check 1.19: SecretMessage-errors                                               |
 |  🔜 | BJP4 Self-Check 1.20: FamousSpeech-errors                                                |
 |  🔜 | BJP4 Self-Check 1.21: methodHeaderSyntax                                                 |
