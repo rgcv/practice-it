@@ -4,46 +4,46 @@
 > number:**
 
 <table>
-  <thead style="font-weight: bold">
+  <thead>
     <tr>
-      <td style="text-align: right">Decimal</td>
-      <td>Binary</td>
+      <th align="right">Decimal</th>
+      <th>Binary</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: right">6</td>
-      <td style="font-weight: bold">
+      <td align="right">6</td>
+      <td>
         <details>
-          <summary>View Answer</summary>
-          100
+          <summary><strong>View Answer</strong></summary>
+          <strong>100</strong>
         </details>
       </td>
     </tr>
     <tr>
-      <td style="text-align: right">44</td>
-      <td style="font-weight: bold">
+      <td align="right">44</td>
+      <td>
         <details>
-          <summary>View Answer</summary>
-          101100
+          <summary><strong>View Answer</strong></summary>
+          <strong>101100</strong>
         </details>
       </td>
     </tr>
     <tr>
-      <td style="text-align: right">72</td>
-      <td style="font-weight: bold">
+      <td align="right">72</td>
+      <td>
         <details>
-          <summary>View Answer</summary>
-          1001000
+          <summary><strong>View Answer</strong></summary>
+          <strong>1001000</strong>
         </details>
       </td>
     </tr>
     <tr>
-      <td style="text-align: right">131</td>
-      <td style="font-weight: bold">
+      <td align="right">131</td>
+      <td>
         <details>
-          <summary>View Answer</summary>
-          10000011
+          <summary><strong>View Answer</strong></summary>
+          <strong>10000011</strong>
         </details>
       </td>
     </tr>

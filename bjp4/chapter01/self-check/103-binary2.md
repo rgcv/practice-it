@@ -3,46 +3,46 @@
 > **What is the decimal equivalent of each of the following binary numbers?**
 
 <table>
-  <thead style="font-weight: bold">
+  <thead>
     <tr>
-      <td style="text-align: right">Binary</td>
-      <td>Decimal</td>
+      <th align="right">Binary</th>
+      <th>Decimal</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: right">100</td>
-      <td style="font-weight: bold">
+      <td align="right">100</td>
+      <td>
         <details>
-          <summary>View Answer</summary>
-          4
+          <summary><strong>View Answer</strong></summary>
+          <strong>4</strong>
         </details>
       </td>
     </tr>
     <tr>
-      <td style="text-align: right">1011</td>
-      <td style="font-weight: bold">
+      <td align="right">1011</td>
+      <td>
         <details>
-          <summary>View Answer</summary>
-          11
+          <summary><strong>View Answer</strong></summary>
+          <strong>11</strong>
         </details>
       </td>
     </tr>
     <tr>
-      <td style="text-align: right">101010</td>
-      <td style="font-weight: bold">
+      <td align="right">101010</td>
+      <td>
         <details>
-          <summary>View Answer</summary>
-          42
+          <summary><strong>View Answer</strong></summary>
+          <strong>42</strong>
         </details>
       </td>
     </tr>
     <tr>
-      <td style="text-align: right">1001110</td>
-      <td style="font-weight: bold">
+      <td align="right">1001110</td>
+      <td>
         <details>
-          <summary>View Answer</summary>
-          78
+          <summary><strong>View Answer</strong></summary>
+          <strong>78</strong>
         </details>
       </td>
     </tr>
