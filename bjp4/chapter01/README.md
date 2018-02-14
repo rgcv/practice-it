@@ -12,9 +12,9 @@
 |  ✅ | [BJP4 Self-Check 1.08: confounding](self-check/108-confounding.md)           |
 |  ✅ | [BJP4 Self-Check 1.09: Archie](self-check/109-Archie.md)                     |
 |  ✅ | [BJP4 Self-Check 1.10: Shaq](self-check/110-Shaq.md)                         |
-|  ✅ | [BJP4 Self-Check 1.11: downwardSpiral](self-check/111-downwardSpiral)        |
-|  ✅ | [BJP4 Self-Check 1.12: DoubleSlash](self-check/112-DoubleSlash)              |
-|  ✅ | [BJP4 Self-Check 1.13: Sally](self-check/113-Sally.md)                                                  |
+|  ✅ | [BJP4 Self-Check 1.11: downwardSpiral](self-check/111-downwardSpiral.md)     |
+|  ✅ | [BJP4 Self-Check 1.12: DoubleSlash](self-check/112-DoubleSlash.md)           |
+|  ✅ | [BJP4 Self-Check 1.13: Sally](self-check/113-Sally.md)                       |
 |  🔜 | BJP4 Self-Check 1.14: TestOfKnowledge                                        |
 |  🔜 | BJP4 Self-Check 1.15: printlnSlashes                                         |
 |  🔜 | BJP4 Self-Check 1.16: withoutPrintStatements                                 |
