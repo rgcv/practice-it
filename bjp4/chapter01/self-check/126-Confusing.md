@@ -1,4 +1,4 @@
-# BJP4 Self-Check 1.25: Strange3
+# BJP4 Self-Check 1.26: Confusing
 
 > **What is the output of the following Java program?**
 >
