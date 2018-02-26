@@ -3,7 +3,7 @@
 > **What is the output of the following Java program?**
 >
 > ```java
-> public class Confusion {
+> public class Confusing {
 >   public static void method1() {
 >     System.out.println("I am method 1.");
 >   }
