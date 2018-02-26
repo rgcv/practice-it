@@ -1,4 +1,4 @@
-# BJP4 Chapter 1: Introduction to Java Programming (22 / 48)
+# BJP4 Chapter 1: Introduction to Java Programming (23 / 48)
 
 |  ✅ | Problem                                                                                  |
 | --: | :--------------------------------------------------------------------------------------- |
@@ -24,7 +24,7 @@
 |  ✅ | [BJP4 Self-Check 1.20: FamousSpeech-errors](self-check/120-FamousSpeech-errors.md)       |
 |  ✅ | [BJP4 Self-Check 1.21: methodHeaderSyntax](self-check/121-methodHeaderSyntax.md)         |
 |  ✅ | [BJP4 Self-Check 1.22: Tricky](self-check/122-Tricky.md)                                 |
-|  🔜 | BJP4 Self-Check 1.23: Strange                                                            |
+|  ✅ | [BJP4 Self-Check 1.23: Strange](self-check/123-Strange.md)                               |
 |  🔜 | BJP4 Self-Check 1.24: Strange2                                                           |
 |  🔜 | BJP4 Self-Check 1.25: Strange3                                                           |
 |  🔜 | BJP4 Self-Check 1.26: Confusing                                                          |
