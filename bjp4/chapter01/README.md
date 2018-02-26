@@ -1,4 +1,4 @@
-# BJP4 Chapter 1: Introduction to Java Programming (26 / 48)
+# BJP4 Chapter 1: Introduction to Java Programming (27 / 48)
 
 |  ✅ | Problem                                                                                  |
 | --: | :--------------------------------------------------------------------------------------- |
@@ -28,7 +28,7 @@
 |  ✅ | [BJP4 Self-Check 1.24: Strange2](self-check/124-Strange2.md)                             |
 |  ✅ | [BJP4 Self-Check 1.25: Strange3](self-check/125-Strange3.md)                             |
 |  ✅ | [BJP4 Self-Check 1.26: Confusing](self-check/126-Confusing.md)                           |
-|  🔜 | BJP4 Self-Check 1.27: Confusing2                                                         |
+|  ✅ | [BJP4 Self-Check 1.27: Confusing2](self-check/127-Confusing2.md)                         |
 |  🔜 | BJP4 Self-Check 1.28: Confusing3                                                         |
 |  🔜 | BJP4 Self-Check 1.29: LotsOfErrors-errors                                                |
 |  🔜 | BJP4 Self-Check 1.30: javaClub                                                           |
