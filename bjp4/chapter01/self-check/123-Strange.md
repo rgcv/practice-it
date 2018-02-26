@@ -1,7 +1,7 @@
 # BJP4 Self-Check 1.23: Strange
 
-> **What is the output of the following program? (You may wish to draw a
-> structure diagram first.)**
+> **What is the output produced from the following program? You may wish to
+> draw a structure diagram first.**
 >
 > ```java
 > public class Strange {
