@@ -1,4 +1,4 @@
-# BJP4 Self-Check 1.31: GiveAdvice
+# BJP4 Self-Check 1.32: Messy
 
 > **The following program is legal under Java syntax rules, but it is difficult
 > to read because of its layout and lack of comments. Reformat it using the
@@ -11,40 +11,37 @@
 >
 > ```java
 > public
-> class GiveAdvice{ public static
-> void main (String[ ]args){ System.out.println (
->
-> "Programs can be easy or");  System.out.println(
->   "difficult to read, depending"
-> );  System.out.println("upon their format.")
->           ;System.out.println();System.out.println(
-> "Everyone, including yourself,");
-> System.out.println
-> ("will be happier if you choose");
->         System.out.println("to format your programs."
-> );    }
->    }
+> class Messy{public
+> static void main(String[]args){message ()
+>   ;System.out.println() ; message ( );} public static void
+> message() { System.out.println(
+>     "I really wish that"
+>     );System.out.println
+> ("I had formatted my source")
+> ;System.out.println("code correctly!");}}
 > ```
 
 <details>
   <summary><strong>View Answer</strong></summary>
 
 ```java
-public class GiveAdvice {
-  // Be more creative with the one line comments
-  // I couldn't be bothered..
+public class Messy {
+  // Another 2 pieces of magnificent
+  // poetry. Shakespeare would be proud..
   public static void main(String[] args) {
-    System.out.println("Programs can be easy or");
-    System.out.println("difficult to read, depending");
-    System.out.println("upon their format.");
+    message();
     System.out.println();
-    System.out.println("Everyone, including yourself,");
-    System.out.println("will be happier if you choose");
-    System.out.println("to format your programs.");
+    message();
+  }
+
+  public static void message() {
+    System.out.println("I really wish that");
+    System.out.println("I had formatted my source");
+    System.out.println("code correctly!");
   }
 }
 ```
 
 </details>
 
-**Author**: Marty Stepp (on 2016/09/08) • [Source](https://practiceit.cs.washington.edu/problem/view/bjp4/chapter1/s31-GiveAdvice)
+**Author**: Marty Stepp (on 2016/09/08) • [Source](https://practiceit.cs.washington.edu/problem/view/bjp4/chapter1/s32-Messy)

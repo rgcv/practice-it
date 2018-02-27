@@ -1,4 +1,4 @@
-# BJP4 Chapter 1: Introduction to Java Programming (31 / 48)
+# BJP4 Chapter 1: Introduction to Java Programming (32 / 48)
 
 |  ✅ | Problem                                                                                  |
 | --: | :--------------------------------------------------------------------------------------- |
@@ -33,7 +33,7 @@
 |  ✅ | [BJP4 Self-Check 1.29: LotsOfErrors-errors](self-check/129-LotsOfErrors-errors.md)       |
 |  ✅ | [BJP4 Self-Check 1.30: javaClub](self-check/130-javaClub.md)                             |
 |  ✅ | [BJP4 Self-Check 1.31: GiveAdvice](self-check/131-GiveAdvice.md)                         |
-|  🔜 | BJP4 Self-Check 1.32: Messy                                                              |
+|  ✅ | [BJP4 Self-Check 1.32: Messy](self-check/132-Messy.md)                                   |
 |  🔜 | BJP4 Exercise 1.01: Stewie                                                               |
 |  🔜 | BJP4 Exercise 1.02: Spikey                                                               |
 |  🔜 | BJP4 Exercise 1.03: WellFormed                                                           |
